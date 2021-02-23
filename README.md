@@ -4,7 +4,7 @@
 
 ## Project Name
 
-The name of your project with deployed URL.
+What Do I Feel Like Eating (URL)
 
 ## Project Description
 
