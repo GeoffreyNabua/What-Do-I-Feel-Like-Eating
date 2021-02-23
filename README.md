@@ -11,7 +11,8 @@ The website will help you find recipes for food that you feel like eating. There
 
 ## API and Data Sample
 
-The API I'm using is the mealDB API. [Link:](https://www.themealdb.com/api.php)
+The API I'm using is the mealDB API. Link: https://www.themealdb.com/api.php
+
 JSON Snippet:
     "meals": [
         {
