@@ -7,7 +7,7 @@
 What Do I Feel Like Eating (URL)
 
 ## Project Description
-The website will help you find recipes for food that you feel like eating. There will be a menu of different kinds of cuisines and when you click on them, it will give you random recipes of that specific cuisine. 
+The website will help you find recipes for food that you feel like eating. There will be a menu of different kinds of cuisines and when you click on a button, it will give you random recipes of that specific cuisine. 
 
 ## API and Data Sample
 
@@ -15,20 +15,26 @@ Specify the API you are using and include a link. Show us a snippet of JSON retu
 
 ## Wireframes
 
-*[Desktop Homepage](https://wireframe.cc/pro/pp/7c2da1506417416#1)
-*[Desktop Recipes Generated Page](https://wireframe.cc/pro/pp/7c2da1506417416#kp523fuj)
-*[Mobile Homepage](https://wireframe.cc/pro/pp/7c2da1506417416#6pi0orbi)
-*[Mobile Recipes Generated Page](https://wireframe.cc/pro/pp/7c2da1506417416#zd2shlfz)
+-[Desktop Homepage](https://wireframe.cc/pro/pp/7c2da1506417416#1)
+-[Desktop Recipes Generated Page](https://wireframe.cc/pro/pp/7c2da1506417416#kp523fuj)
+-[Mobile Homepage](https://wireframe.cc/pro/pp/7c2da1506417416#6pi0orbi)
+-[Mobile Recipes Generated Page](https://wireframe.cc/pro/pp/7c2da1506417416#zd2shlfz)
 
+## MVP/PostMVP
 #### MVP 
 
-- Find and use external api 
-- Render data on page 
-- Allow user to choose favorites 
+- Have boxes with images of cuisine and a recipe generator next to them
+- Showcase 3 recipes of the specific cuisine
+- Allow user to generate new random recipes on the same page
+- Allow user to go back and choose a different cuisine
+- Use a media query for a responsive design for mobile users
+- Use the api to generate the recipes
 
 #### PostMVP  
-- Add second API
-- Use local storage to save user favorites
+- Save favorite recipes
+- Sort by meal time 
+- Sort by allergies and certain types of diets
+- Make a meal plan out of saved recipes
 
 ## Project Schedule
 |  Day | Deliverable | Status
@@ -43,14 +49,21 @@ Specify the API you are using and include a link. Show us a snippet of JSON retu
 
 ## Priority Matrix
 
-Include a full list of features that have been prioritized based on the `Time and Importance` Matrix.  Link this image in a similar manner to your wireframes
+[Priority Matrix](https://lucid.app/lucidchart/invitations/accept/6ce482d8-517b-4437-aef7-162bebc45367)
 
 ## Timeframes
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| HTML Setup | M | 1 hr | hrs | hrs |
+| Pseudocode | H | 7 hrs| hrs | hrs |
+| Actual Code| H | 6 hrs| hrs | hrs |
+| Basic Styling|M| 3 hrs| hrs | hrs |
+| Complete MVP| H | 4 hrs| hrs | hrs |
+| Usable Model| H | 3 hrs| hrs | hrs |
+| Testing/Debugging| L| 3 hrs| hrs | hrs |
+| Add advanced CSS|L | 8 hrs| hrs |hrs|
+| Add PostMVP|L| 5 Hrs | hrs | hrs |
+| Total |  | 40 hrs| hrs | hrs |
 
 
 ## Code Snippet
