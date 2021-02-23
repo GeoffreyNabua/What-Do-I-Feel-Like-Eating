@@ -11,8 +11,14 @@ The website will help you find recipes for food that you feel like eating. There
 
 ## API and Data Sample
 
-Specify the API you are using and include a link. Show us a snippet of JSON returned by your API so we know you can access it and get the info you need
-
+The API I'm using is the mealDB API. [Link:](https://www.themealdb.com/api.php)
+JSON Snippet:
+    "meals": [
+        {
+            "strMeal": "BeaverTails",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg",
+            "idMeal": "52928"
+        },
 ## Wireframes
 
 -[Desktop Homepage](https://wireframe.cc/pro/pp/7c2da1506417416#1)
