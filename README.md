@@ -103,8 +103,8 @@ JSON Snippet:
 ## Project Schedule
 |  Day | Deliverable | Status
 |---|---| ---|
-|Feb 22-23| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
-|Feb 23| Project Approval and HTML Setup and Pseudocode | Incomplete
+|Feb 22-23| Prompt / Wireframes / Priority Matrix / Timeframes | Complete
+|Feb 23| Project Approval and HTML Setup and Pseudocode | Complete
 |Feb 24| CSS and API calls| Incomplete
 |Feb 25| Actual Code and Usable Model and MVP completed  | Incomplete
 |Feb 26| Advanced CSS and Media Queries | Incomplete
